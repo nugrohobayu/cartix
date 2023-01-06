@@ -1,0 +1,9 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Material Theme Ocean",
+  "workbench.preferredLightColorTheme": "Palenight (Mild Contrast)"
+}
